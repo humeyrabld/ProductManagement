@@ -28,3 +28,13 @@ ASP.NET Core Web API byggt med Clean Architecture.
 * JWT Login
 * Rollbaserad åtkomst
 
+## Installation
+
+1. Clone repository
+2. Run migrations
+3. Start API
+4. Open Swagger
+
+## Authentication
+
+The API uses JWT authentication and role-based authorization.
